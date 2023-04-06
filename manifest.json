@@ -8,7 +8,7 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-          "src": "/images/favicon.png",
+          "src": "/assets/img/favicon.png",
           "type": "image/png",
         }
     ]
